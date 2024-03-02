@@ -5,6 +5,20 @@
 
 - 💬 Ask me about **html css and javascript**
 
+I'm Aneeq Ahmed, a motivated high school student currently enrolled in class 9. 🎓 Passionate about technology, I've dedicated my time to learning and mastering key web development skills.
+
+💡 About Me:
+I'm on an exciting journey to explore the world of web development! Currently focusing on the MERN stack, I've already gained proficiency in HTML, CSS, Bootstrap, and Basic of JavaScript. 🚀 My enthusiasm for coding and problem-solving drives me to constantly learn and improve.
+
+
+📚 Education:
+I'm currently a high school student, and my academic journey fuels my curiosity for technology. Balancing school with my passion for coding has been an enriching experience, shaping my skills and perspective.
+
+I'm here to connect with fellow learners, mentors, and professionals in the tech community. If you share a passion for web development or have insights to share, let's connect! 🤝
+
+
+My goal is to combine my evolving technical skills with real-world applications. Excited about the possibilities that the MERN stack offers, I'm determined to contribute to innovative projects and make a positive impact.
+
 - 📫 How to reach me **codewithaneeq@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
