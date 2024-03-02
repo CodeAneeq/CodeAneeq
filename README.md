@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aneeq Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400px" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnVrYWM4M3dxUWhLU1FuaERaQ181ZktwaG1aZ3xBQ3Jtc0ttNTVaUUVwU3NQN0lPR2xLZUZUSzNDTnYzQ0VFQXlUNEk1cVpUMFltbmVRcHRVUEttcmdMZXBzZE0zN3l3Snd1TWgyMnNzaURHUmJrb1dmeHZQUjBrNjRZMTVEbmg5bnZiR0F5SFRjcEdJTlJiLVNGMA&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
-
-
 - 🌱 I’m currently learning **Mern Stack,**
 
 
