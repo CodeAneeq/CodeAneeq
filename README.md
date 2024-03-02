@@ -1,3 +1,5 @@
+![logo](https://github.com/CodeAneeq/CodeAneeq/blob/main/banner.jpeg)
+
 <h1 align="center">Hi 👋, I'm Aneeq Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
