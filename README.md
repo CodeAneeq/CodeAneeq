@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning **Mern Stack,**
 
+- 👨‍💻 All of my projects are available at [https://codeaneeq.github.io/](https://codeaneeq.github.io/)
 
 I'm Aneeq Ahmed, a motivated high school student currently enrolled in class 9. 🎓 Passionate about technology, I've dedicated my time to learning and mastering key web development skills.
 
